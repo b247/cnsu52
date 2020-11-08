@@ -1,0 +1,1 @@
+Source files for om3.b247.eu.org v3.0.6 - "DECLARAȚIE PE PROPRIE RĂSPUNDERE prevenire COVID-19 cf. Hotărâre CNSU nr.52/05.11.2020, se poate semna olograf digital, online offline, GDPR compliant"
