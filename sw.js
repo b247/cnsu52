@@ -1,4 +1,4 @@
-const PRECACHE = 'offline-v3.0.8';
+const PRECACHE = 'offline-v3.0.8-c2';
 const RUNTIME = 'runtime';
 
 // A list of local resources we always want to be cached.
