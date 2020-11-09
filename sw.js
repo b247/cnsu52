@@ -1,4 +1,4 @@
-const PRECACHE = 'offline-v3.0.8-c4';
+const PRECACHE = 'offline-v3.0.8-c5';
 const RUNTIME = 'runtime';
 
 // A list of local resources we always want to be cached.
@@ -12,6 +12,7 @@ const PRECACHE_URLS = [
   '/favicons/android-chrome-192x192.png',
   '/favicons/site.webmanifest?v=v3.0.8',
   '/images/android-swipe-down-notification-panel.gif',
+  '/images/preview.jpg',
 
   '/jslibs/vendors/jSignature.min.js?v=2.1.3',
   '/jslibs/vendors/jquery.min.js?v=3.4.1',
